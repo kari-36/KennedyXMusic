@@ -1,1 +1,1 @@
-worker: python3 -m handlers
+worker: python3 -m main

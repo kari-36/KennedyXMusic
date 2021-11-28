@@ -4,7 +4,7 @@
     "description": "KennedyX Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/KennedyProject/KennedyXMusic",
-    "stack": "container",
+    "stack": "heroku-16",
     "env": {
         "SESSION_NAME": {
             "description": "isi dengan string Pyrogram (P)",
